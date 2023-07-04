@@ -23,11 +23,18 @@ void PrintArray(int[,] inArray)
 }
 int DiagSum(int[,] inArray)
 {
+//    int sum = 0;
+//    for (int i = 0; i < inArray.GetLength(0); i++)
+//    {
+//        if((inArray.GetLength(1)-1) < i) break;
+//        sum = sum + inArray[i, i];
+//    }
+//    return sum;
+    int length = inArray.GetLength(0) < inArray.GetLength(1) ? inArray.GetLength(0) : inArray.GetLength(1);
     int sum = 0;
-    for (int i = 0; i < inArray.GetLength(0); i++)
+    for(int i = 0; i < length; i++)
     {
-        if((inArray.GetLength(1)-1) < i) break;
-        sum = sum + inArray[i, i];
+        sum+= inArray[i, i];
     }
     return sum;
 }
