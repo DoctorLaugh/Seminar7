@@ -1,0 +1,15 @@
+C:\Users\Дмитрий Траян\Desktop\Seminar7\Task4ver2\bin\Debug\net6.0\Task4ver2.exe
+C:\Users\Дмитрий Траян\Desktop\Seminar7\Task4ver2\bin\Debug\net6.0\Task4ver2.deps.json
+C:\Users\Дмитрий Траян\Desktop\Seminar7\Task4ver2\bin\Debug\net6.0\Task4ver2.runtimeconfig.json
+C:\Users\Дмитрий Траян\Desktop\Seminar7\Task4ver2\bin\Debug\net6.0\Task4ver2.dll
+C:\Users\Дмитрий Траян\Desktop\Seminar7\Task4ver2\bin\Debug\net6.0\Task4ver2.pdb
+C:\Users\Дмитрий Траян\Desktop\Seminar7\Task4ver2\obj\Debug\net6.0\Task4ver2.csproj.AssemblyReference.cache
+C:\Users\Дмитрий Траян\Desktop\Seminar7\Task4ver2\obj\Debug\net6.0\Task4ver2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий Траян\Desktop\Seminar7\Task4ver2\obj\Debug\net6.0\Task4ver2.AssemblyInfoInputs.cache
+C:\Users\Дмитрий Траян\Desktop\Seminar7\Task4ver2\obj\Debug\net6.0\Task4ver2.AssemblyInfo.cs
+C:\Users\Дмитрий Траян\Desktop\Seminar7\Task4ver2\obj\Debug\net6.0\Task4ver2.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий Траян\Desktop\Seminar7\Task4ver2\obj\Debug\net6.0\Task4ver2.dll
+C:\Users\Дмитрий Траян\Desktop\Seminar7\Task4ver2\obj\Debug\net6.0\refint\Task4ver2.dll
+C:\Users\Дмитрий Траян\Desktop\Seminar7\Task4ver2\obj\Debug\net6.0\Task4ver2.pdb
+C:\Users\Дмитрий Траян\Desktop\Seminar7\Task4ver2\obj\Debug\net6.0\Task4ver2.genruntimeconfig.cache
+C:\Users\Дмитрий Траян\Desktop\Seminar7\Task4ver2\obj\Debug\net6.0\ref\Task4ver2.dll
